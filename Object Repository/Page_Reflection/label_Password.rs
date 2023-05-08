@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password</name>
+   <tag></tag>
+   <elementGuidId>d4323870-2ecf-467f-9118-6c2c2f32ccb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.mt-30 > label.ff-gotham-bold.t-t-upper.f-s-16.c-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>224b4869-e307-4b50-8440-4ae8a8d88432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-gotham-bold t-t-upper f-s-16 c-white</value>
+      <webElementGuid>d4b73454-33d9-4e4c-a99a-d9204fd6b7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>1131a9e1-0caa-494d-af1e-2a50e15816e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope sidebar-is-reduced sidebar-is-expanded&quot;]/div[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;limiter ng-scope&quot;]/div[@class=&quot;container-login100&quot;]/div[@class=&quot;col-md-4 com-xs-4 login-form reflection--form&quot;]/form[@class=&quot;create_user_form login100-form validate-form ng-pristine ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern&quot;]/div[@class=&quot;form-group mt-30&quot;]/label[@class=&quot;ff-gotham-bold t-t-upper f-s-16 c-white&quot;]</value>
+      <webElementGuid>28ecf7a6-9b77-430a-a167-31ee3b389429</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[1]/following::label[1]</value>
+      <webElementGuid>92b7b18c-a162-41cb-b527-a2535906937d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/preceding::label[2]</value>
+      <webElementGuid>bffd8f13-6d52-410e-96e5-18d3ae7f5794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::label[3]</value>
+      <webElementGuid>934f38f0-f8df-48a8-81af-04596897059f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>2440c023-bab7-47d5-bd65-36cb549c8207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>56005845-ab32-49ae-8a7a-e333e781b30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>8f1e93aa-6b43-4a33-bf10-1e3d7da016ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
